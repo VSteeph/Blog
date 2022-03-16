@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://VSteeph.github.io/sitemap.xml
