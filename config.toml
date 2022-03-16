@@ -1,0 +1,64 @@
+baseURL = 'https://VSteeph.github.io/'
+languageCode = 'fr-fr'
+title = 'Steph'
+theme = 'PaperMod'
+canonifyurls = true
+paginate= 5
+
+enableRobotsTXT= true
+buildDrafts= false
+buildFuture= false
+buildExpired= false
+
+[minify]
+  disableXML= true
+  minifyOutput= true
+
+[params]
+description = "Un site/blog sur mon évolution / Apprentissage"
+DateFormat= "2 January , 2006"
+#cover = "images/cover.png"
+#logo = "images/logo.png"
+githubName = "VSteeph"
+email = "autresvv@gmail.com"
+hideHUGOSupport = false
+ShowReadingTime= true
+ShowPostNavLinks= true
+ShowBreadCrumbs= true
+ShowCodeCopyButtons= true
+
+[fuseOpts]
+  isCaseSensitive= false
+  shouldSort= true
+  location= 0
+  distance= 1000
+  threshold= 0.4
+  minMatchCharLength= 0
+  keys= ["title", "permalink", "summary", "content"]
+
+
+[[menu.main]]  # here are the buttons on the menu
+name = "Home" # Button will display as "Home"
+weight = 10 # the weight decides the position of the button (higher or lower)
+identifier = "home"  # this page will refer to a markdown file in the content folder
+url = "/"
+[[menu.main]]
+name = "Blog_404"
+identifier = "blog"
+url = "/post"
+weight = 20
+[[menu.main]]
+identifier = 'categories'
+name = 'categories'
+url = '/categories/'
+weight =  30
+[[menu.main]]
+identifier = 'tags'
+name = 'tags'
+url = '/tags/'
+weight =  40
+[[menu.main]]
+name = "Contact_404"
+weight = 0
+identifier = "contact"
+url = "/contact"
