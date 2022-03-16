@@ -1,4 +1,4 @@
-baseURL = 'https://VSteeph.github.io/'
+baseURL = 'https://vsteeph.github.io/Blog/'
 languageCode = 'fr-fr'
 title = 'Steph'
 theme = 'PaperMod'
