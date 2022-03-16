@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://VSteeph.github.io/posts/hello_world/</loc>
+    <loc>https://vsteeph.github.io/Blog/posts/hello_world/</loc>
     <lastmod>2022-03-16T10:28:11+01:00</lastmod>
   </url><url>
-    <loc>https://VSteeph.github.io/tags/hugo/</loc>
+    <loc>https://vsteeph.github.io/Blog/tags/hugo/</loc>
     <lastmod>2022-03-16T10:28:11+01:00</lastmod>
   </url><url>
-    <loc>https://VSteeph.github.io/posts/</loc>
+    <loc>https://vsteeph.github.io/Blog/posts/</loc>
     <lastmod>2022-03-16T10:28:11+01:00</lastmod>
   </url><url>
-    <loc>https://VSteeph.github.io/</loc>
+    <loc>https://vsteeph.github.io/Blog/</loc>
     <lastmod>2022-03-16T10:28:11+01:00</lastmod>
   </url><url>
-    <loc>https://VSteeph.github.io/tags/</loc>
+    <loc>https://vsteeph.github.io/Blog/tags/</loc>
     <lastmod>2022-03-16T10:28:11+01:00</lastmod>
   </url><url>
-    <loc>https://VSteeph.github.io/tags/tech/</loc>
+    <loc>https://vsteeph.github.io/Blog/tags/tech/</loc>
     <lastmod>2022-03-16T10:28:11+01:00</lastmod>
   </url><url>
-    <loc>https://VSteeph.github.io/tags/web/</loc>
+    <loc>https://vsteeph.github.io/Blog/tags/web/</loc>
     <lastmod>2022-03-16T10:28:11+01:00</lastmod>
   </url><url>
-    <loc>https://VSteeph.github.io/categories/</loc>
+    <loc>https://vsteeph.github.io/Blog/categories/</loc>
   </url>
 </urlset>
