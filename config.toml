@@ -1,6 +1,6 @@
 baseURL = 'https://vsteeph.github.io/Blog/'
 languageCode = 'fr-fr'
-title = 'Steph'
+title = 'Steph Tech Lead ou Stagiaire?'
 theme = 'PaperMod'
 canonifyurls = true
 paginate= 5
@@ -15,7 +15,7 @@ buildExpired= false
   minifyOutput= true
 
 [params]
-description = "Un site/blog sur mon évolution / Apprentissage"
+description = "Un site qui me sert à prendre des notes liés à mon apprentissage, de partager et de me créer un Wiki."
 DateFormat= "2 January , 2006"
 #cover = "images/cover.png"
 #logo = "images/logo.png"
@@ -41,24 +41,19 @@ ShowCodeCopyButtons= true
 name = "Home" # Button will display as "Home"
 weight = 10 # the weight decides the position of the button (higher or lower)
 identifier = "home"  # this page will refer to a markdown file in the content folder
-url = "/"
+url = ""
 [[menu.main]]
-name = "Blog"
-identifier = "blog"
-url = "/post"
+name = "Wiki"
+identifier = "wiki"
+url = "wiki"
 weight = 20
 [[menu.main]]
 identifier = 'categories'
 name = 'categories'
-url = '/categories/'
+url = 'categories/'
 weight =  30
 [[menu.main]]
 identifier = 'tags'
 name = 'tags'
-url = '/tags/'
+url = 'tags/'
 weight =  40
-[[menu.main]]
-name = "Contact_404"
-weight = 0
-identifier = "contact"
-url = "/contact"
