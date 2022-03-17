@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vsteeph.github.io/Blog/tags/architecture/</loc>
+    <lastmod>2022-03-17T22:55:35+01:00</lastmod>
+  </url><url>
+    <loc>https://vsteeph.github.io/Blog/categories/architecture/</loc>
+    <lastmod>2022-03-17T22:55:35+01:00</lastmod>
+  </url><url>
+    <loc>https://vsteeph.github.io/Blog/posts/arm_architecture/</loc>
+    <lastmod>2022-03-17T22:55:35+01:00</lastmod>
+  </url><url>
+    <loc>https://vsteeph.github.io/Blog/categories/</loc>
+    <lastmod>2022-03-17T22:55:35+01:00</lastmod>
+  </url><url>
+    <loc>https://vsteeph.github.io/Blog/tags/gamedev/</loc>
+    <lastmod>2022-03-17T22:55:35+01:00</lastmod>
+  </url><url>
+    <loc>https://vsteeph.github.io/Blog/categories/gamedev/</loc>
+    <lastmod>2022-03-17T22:55:35+01:00</lastmod>
+  </url><url>
+    <loc>https://vsteeph.github.io/Blog/posts/</loc>
+    <lastmod>2022-03-17T22:55:35+01:00</lastmod>
+  </url><url>
+    <loc>https://vsteeph.github.io/Blog/</loc>
+    <lastmod>2022-03-17T22:55:35+01:00</lastmod>
+  </url><url>
+    <loc>https://vsteeph.github.io/Blog/tags/</loc>
+    <lastmod>2022-03-17T22:55:35+01:00</lastmod>
+  </url><url>
+    <loc>https://vsteeph.github.io/Blog/tags/yuzu/</loc>
+    <lastmod>2022-03-17T22:55:35+01:00</lastmod>
+  </url><url>
+    <loc>https://vsteeph.github.io/Blog/wiki/</loc>
+    <lastmod>2022-03-17T22:40:49+01:00</lastmod>
+  </url><url>
     <loc>https://vsteeph.github.io/Blog/posts/hello_world/</loc>
     <lastmod>2022-03-16T10:28:11+01:00</lastmod>
   </url><url>
     <loc>https://vsteeph.github.io/Blog/tags/hugo/</loc>
-    <lastmod>2022-03-16T10:28:11+01:00</lastmod>
-  </url><url>
-    <loc>https://vsteeph.github.io/Blog/posts/</loc>
-    <lastmod>2022-03-16T10:28:11+01:00</lastmod>
-  </url><url>
-    <loc>https://vsteeph.github.io/Blog/</loc>
-    <lastmod>2022-03-16T10:28:11+01:00</lastmod>
-  </url><url>
-    <loc>https://vsteeph.github.io/Blog/tags/</loc>
     <lastmod>2022-03-16T10:28:11+01:00</lastmod>
   </url><url>
     <loc>https://vsteeph.github.io/Blog/tags/tech/</loc>
@@ -22,7 +46,5 @@
   </url><url>
     <loc>https://vsteeph.github.io/Blog/tags/web/</loc>
     <lastmod>2022-03-16T10:28:11+01:00</lastmod>
-  </url><url>
-    <loc>https://vsteeph.github.io/Blog/categories/</loc>
   </url>
 </urlset>

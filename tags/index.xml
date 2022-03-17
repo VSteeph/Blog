@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Steph</title>
+    <title>Tags on Steph Tech Lead ou Stagiaire?</title>
     <link>https://vsteeph.github.io/Blog/tags/</link>
-    <description>Recent content in Tags on Steph</description>
+    <description>Recent content in Tags on Steph Tech Lead ou Stagiaire?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 16 Mar 2022 10:28:11 +0100</lastBuildDate><atom:link href="https://vsteeph.github.io/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Mar 2022 22:55:35 +0100</lastBuildDate><atom:link href="https://vsteeph.github.io/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecture</title>
+      <link>https://vsteeph.github.io/Blog/tags/architecture/</link>
+      <pubDate>Thu, 17 Mar 2022 22:55:35 +0100</pubDate>
+      
+      <guid>https://vsteeph.github.io/Blog/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GameDev</title>
+      <link>https://vsteeph.github.io/Blog/tags/gamedev/</link>
+      <pubDate>Thu, 17 Mar 2022 22:55:35 +0100</pubDate>
+      
+      <guid>https://vsteeph.github.io/Blog/tags/gamedev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuzu</title>
+      <link>https://vsteeph.github.io/Blog/tags/yuzu/</link>
+      <pubDate>Thu, 17 Mar 2022 22:55:35 +0100</pubDate>
+      
+      <guid>https://vsteeph.github.io/Blog/tags/yuzu/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Hugo</title>
       <link>https://vsteeph.github.io/Blog/tags/hugo/</link>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Architecture on Steph Tech Lead ou Stagiaire?</title>
+    <link>https://vsteeph.github.io/Blog/tags/architecture/</link>
+    <description>Recent content in Architecture on Steph Tech Lead ou Stagiaire?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 17 Mar 2022 22:55:35 +0100</lastBuildDate><atom:link href="https://vsteeph.github.io/Blog/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arm_architecture_Part1_Intro</title>
+      <link>https://vsteeph.github.io/Blog/posts/arm_architecture/</link>
+      <pubDate>Thu, 17 Mar 2022 22:55:35 +0100</pubDate>
+      
+      <guid>https://vsteeph.github.io/Blog/posts/arm_architecture/</guid>
+      <description>Intro C&amp;rsquo;est le premier article sur ma découverte de l&amp;rsquo;émulateur Yuzu qui est un émulateur pour Switch. Avant de pouvoir commencer à contribuer à cet émulateur, il y a pas mal de recherches pour comprendre l&amp;rsquo;environnement et l&amp;rsquo;architecture global du projet.
+C&amp;rsquo;est donc la première Série qui va concerner l&amp;rsquo;architecture de la Switch (arm). J&amp;rsquo;ai encore une idée de ce que tout cela signifie donc on va commencer à définir le vocabulaire avec quelques articles Wikipedia pour pouvoir attaquer ce petit PDF de 11.</description>
+    </item>
+    
+  </channel>
+</rss>
